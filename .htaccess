@@ -1,0 +1,3 @@
+Rewriteengine On
+
+RewriteRule ^([a-zA-Z]+)$ $1.php
